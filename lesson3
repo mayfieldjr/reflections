@@ -13,12 +13,15 @@ Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
     branches are used when wanting to add features, clones get information from the
-    entire file/branch i. e. master file and creates a replica, forks
+    entire file/branch i. e. master file and creates a replica, forks are a replica
+	of the entire repository of another profile from someone on github the information
+	comes over as your own and you are able to make changes as if it were your own
+	to continue coding
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    you're still able to make final changes and edits if necessary
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
